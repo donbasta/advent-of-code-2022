@@ -9,3 +9,7 @@ still using c++
 # day 3
 
 used python, got some WA because I forgot to remove the trailing whitespace from the input :dead:
+
+# day 4
+
+used python, no issue. should've brainfucked instead
