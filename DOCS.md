@@ -5,3 +5,7 @@ I started doing aoc on December 13th when there were already 13 problems availab
 # day 2
 
 still using c++
+
+# day 3
+
+used python, got some WA because I forgot to remove the trailing whitespace from the input :dead:
