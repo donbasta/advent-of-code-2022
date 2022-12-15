@@ -31,3 +31,7 @@ whoa although haven't coded in java for years, fortunately I haven't forgotten l
 # day 8
 
 the only problem here is that should I solve the problem optimally by using some kind of min-stack? because brute force suffices... brute force it is
+
+# day 9
+
+back to golang! not much struggle; breeze
