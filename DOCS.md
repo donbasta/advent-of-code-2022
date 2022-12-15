@@ -35,3 +35,7 @@ the only problem here is that should I solve the problem optimally by using some
 # day 9
 
 back to golang! not much struggle; breeze
+
+# day 10
+
+not much struggle again, except for the statement of the problem
