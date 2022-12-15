@@ -4,7 +4,7 @@ I started doing aoc on December 13th when there were already 13 problems availab
 
 # day 2
 
-still using c++
+still using c++, breeze
 
 # day 3
 
@@ -12,4 +12,8 @@ used python, got some WA because I forgot to remove the trailing whitespace from
 
 # day 4
 
-used python, no issue. should've brainfucked instead
+used python, no issue, breeze. should've brainfucked instead
+
+# day 5
+
+at first i was going to use java, but the problem statement of day 5 involves the terms cargo and crate, so yeah, this must be solved using the one and only rust. i've been learning rust since last several months, but well my rust is rusty (no pun intended), so i spend quite some time refreshing my rust here (getting input from file, parsing each line by line, even iterating over a vector :( )
