@@ -21,3 +21,9 @@ at first i was going to use java, but the problem statement of day 5 involves th
 # day 6
 
 not much struggle since all of the rust-related struggles are mostly on the previous day. Oh, and this is Day6 btw, so coded this while listening to that band as well :D
+
+# day 7
+
+we move to java. i think the last time i used java was when i did the game of life thing; more than one year ago. and turns out that i currently didn't have java installed on my pc bcs i factory resetted it at some point this year. so installing and configuring java became the most cumbersome thing to do for this day. and it was such a refreshing thing coding a data structure in java; if this was done in haskell instead i would die.
+
+wow although haven't coded in java for years, fortunately haven't forgotten lots of them
