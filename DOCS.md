@@ -47,3 +47,7 @@ using typescript, doing some debugging hell, quite easy on the first part. the s
 # day 12
 
 debugging hell but overall got no problem
+
+# day 13
+
+used ruby for the next two days starting today! have never coded properly in ruby previously, so spent some time learning even the basic statements like conditionals, loopings, etc. fun job
