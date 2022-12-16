@@ -39,3 +39,7 @@ back to golang! not much struggle; breeze
 # day 10
 
 not much struggle again, except for the statement of the problem
+
+# day 11
+
+using typescript, doing some debugging hell, quite easy on the first part. the second part requires some kind of bigint for like an iteration of 10000 steps, but at step 400 it already reaches max bigint size :( lol i just need to find some kind of mathematical optimization to reduce the numbers using modulo. it quite takes some time since i need to go outside first touching some grass and playing basketball, but nothing major happened after that because turned out that i just need to find the LCM of all the divisibility constants of each monkey and reduce all the computations modulo that number
