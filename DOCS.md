@@ -51,3 +51,7 @@ debugging hell but overall got no problem
 # day 13
 
 used ruby for the next two days starting today! have never coded properly in ruby previously, so spent some time learning even the basic statements like conditionals, loopings, etc. fun job
+
+# day 14
+
+the problem was cool, simulating a falling sands. while it could actually be optimized (by e.g. set, searching by o(log n)) but simple simulation suffices. i did two assigments at a single line (e.g. a = 1, b = 2) not knowing that it would make a as an array [1,2] and b as 2 lol
